@@ -39,6 +39,3 @@ These measures drive the dynamic visuals and KPI cards in the dashboard.
 **Dashboard Preview**
 (Include a screenshot in the assets/ folder and link it here)
 ![Dashboard Overview](assets/dashboard_view.png)
-
-
-Let me know if you'd like a Spanish version or want to add a section explaining specific DAX formulas for recruiters or hiring managers.
